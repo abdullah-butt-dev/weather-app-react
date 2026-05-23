@@ -37,10 +37,10 @@
 
 ```bash
 # Clone the repository
-git clone git@github.com:abdullah-butt-dev/weather-app.git
+git clone git@github.com:abdullah-butt-dev/weather-app-react.git
 
 # Navigate to project
-cd weather-app
+cd weather-app-react
 
 # Install dependencies
 npm install
